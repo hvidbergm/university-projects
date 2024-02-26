@@ -20,4 +20,4 @@
 * Course ID: CDSCO1003E
 * Tools, languages and libraries: Tableau, Python (Beautiful Soup, Selenium, Pandas), Alteryx
 * Authors: [Mads Hvidberg](https://github.com/hvidbergm), [Michel Meyer](https://github.com/MichelMeyer19), [Nikolaj Petersson](https://github.com/nikolajpettersson), [Tim Becker](https://github.com/tim-beck) <br>
-![Visual Analytics dashboard in Tableau](Visual%20Analytics\imgs\VA_Dashboard_front-page.png)
+![Visual Analytics dashboard in Tableau](Visual%20Analytics/imgs/VA_Dashboard_front-page.png)
