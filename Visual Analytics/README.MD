@@ -1,4 +1,5 @@
-**Course Name: Visual Analtyics (Business Intelligence)**
+# Course Name: Visual Analtyics (Business Intelligence)
+Project details:
 * Project Title: Web Scraping for Automated Market Analysis - Leveraging Google Maps for Decision-Making in the Nordic Hotel Market 
 * Deliverable: Tableau dashboard based on data scraped from Google maps using a Python script
 * Course ID: CDSCO1003E
