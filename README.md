@@ -12,7 +12,7 @@
 * Deliverable: Python code for combined topic modelling and sentiment analysis
 * Course ID: CDSCO1002E
 * Tools, languages and libraries: Python (SciKit-Learn, NLTK, Top2Vec)
-* Authors: Daniel Pedersen, [Mads Hvidberg](https://github.com/hvidbergm), [Michel Meyer](https://github.com/MichelMeyer19), [Tim Becker](https://github.com/tim-beck)
+* Authors: [Daniel Pedersen](https://github.com/NesreDerp), [Mads Hvidberg](https://github.com/hvidbergm), [Michel Meyer](https://github.com/MichelMeyer19), [Tim Becker](https://github.com/tim-beck)
 
 ## Course Name: [Visual Analtyics (Business Intelligence)](https://github.com/hvidbergm/university-projects/tree/main/Visual%20Analytics)
 **Project Title: Web Scraping for Automated Market Analysis - Leveraging Google Maps for Decision-Making in the Nordic Hotel Market**
