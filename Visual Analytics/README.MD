@@ -1,15 +1,22 @@
-# Course Name: Visual Analtyics (Business Intelligence)
+# Course Name: Visual Analtyics (CDSCO1003E)
 Project details:
-* Project Title: Web Scraping for Automated Market Analysis - Leveraging Google Maps for Decision-Making in the Nordic Hotel Market 
-* Deliverable: Tableau dashboard based on data scraped from Google maps using a Python script
-* Course ID: CDSCO1003E
-* Tools, languages and libraries: Tableau, Python (Beautiful Soup, Selenium, Pandas), Alteryx
-* Authors: Mads Hvidberg, Michel Meyer, Nikolaj Petersson, Tim Becker<br>
+* **Project** Title: Web Scraping for Automated Market Analysis - Leveraging Google Maps for Decision-Making in the Nordic Hotel Market 
+* **Deliverable**: Tableau dashboard based on data scraped from Google maps using a Python script 
+* **Tools, languages and libraries**: Tableau, Python (Beautiful Soup, Selenium, Pandas), Alteryx
+* **Authors**: Mads Hvidberg, Michel Meyer, Nikolaj Petersson, Tim Becker<br>
 
-Link to the dashboard on Tableau Public: [link](https://public.tableau.com/app/profile/mads4252/viz/Nordichotelmarketanalysis/Dashboard) (please note that different screen sizes and browsers may interrupt with the layout - tested on a 27" monitor in Microsoft Edge).
+**Goal**: To build an ETL pipeline and visualise the data using Tableau.
 
-**The front page of the dashboard:**
+**Hand-in**: 
+
+Using Python and BeautifulSoup4, we built a web-crawler to scrape data on hotels across Nordic capital cities from Google Maps, providing us with an interesting, real-life dataset complete with a large amount of features to derive insights from, as well as a lot of unstructured data which we could build a proper ETL pipeline on. 
+
+With the data scraped, we created the ETL workflow in Alteryx, cleaning the data, combining different data sources to enrich the data and derived new features from existing variables.
+
+The final dataset we used for our Tableau BI dashboard. The focus of the dashboard was to tailor the information to the target user, an experiened hotel entrepreneur looking to expand in the Nordics, while ensuring the UI and UX allowed for an intuitive and accessible interface. Link to the dashboard on Tableau Public: [link](https://public.tableau.com/app/profile/mads4252/viz/Nordichotelmarketanalysis/Dashboard) (please note that different screen sizes and browsers may interrupt with the layout - tested on a 27" monitor in Microsoft Edge).
+
+**Dashboard**:
 ![Dashboard front page](imgs/VA_Dashboard_front-page.png)
 
-**The front page with the map toggled on:**
+**Dashboard with the map toggled on**:
 ![Dashboard map view](imgs/VA_Dashboard_map-view.png)
