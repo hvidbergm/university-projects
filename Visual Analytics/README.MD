@@ -1,11 +1,10 @@
 # Course Name: Visual Analtyics (CDSCO1003E)
 Project details:
-* **Project** Title: Web Scraping for Automated Market Analysis - Leveraging Google Maps for Decision-Making in the Nordic Hotel Market 
+* **Project title** Title: Web Scraping for Automated Market Analysis - Leveraging Google Maps for Decision-Making in the Nordic Hotel Market 
 * **Deliverable**: Tableau dashboard based on data scraped from Google maps using a Python script 
-* **Tools, languages and libraries**: Tableau, Python (Beautiful Soup, Selenium, Pandas), Alteryx
-* **Authors**: Mads Hvidberg, Michel Meyer, Nikolaj Petersson, Tim Becker<br>
+* **Tools**: Tableau, Python (Beautiful Soup, Selenium, Pandas), Alteryx
 
-**Goal**: To build an ETL pipeline and visualise the data using Tableau.
+**Exam deliverable**: To build an ETL pipeline and visualise the data using Tableau.
 
 **Hand-in**: Report based on workflow of 1) data gathering, 2) data transformation and 3) dashboard visualisation
 1. Using Python and BeautifulSoup4, we built a web-crawler to scrape data on hotels across Nordic capital cities from Google Maps, providing us with an interesting, real-life dataset complete with a large amount of features to derive insights from, as well as a lot of unstructured data which we could build a proper ETL pipeline on. 
