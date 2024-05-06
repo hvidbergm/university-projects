@@ -5,9 +5,9 @@
 * Tools, languages and libraries: Python (Pandas, SciKit-Learn, XGBoost, Pycaret)
 * Authors: Aaron Wolf, Mads Hvidberg, Michel Meyer, Tim Becker
 
-Goal: To write a report comparing different machine learning or deep learning models on an interesting dataset
+**Exam deliverable**: To write a report comparing different machine learning or deep learning models on an interesting dataset
 
-Outcome:
+**Outcome**:
 * We acquired a **dataset** from Auto1 (a German platform for selling used cars)
 * We wanted to **predict the value of a car** that is put on the platform, based on all the information which the staff gathers about the cars
 * Based on our models, we wanted to **get key insigts** in what **factors** were the most relevant when **valuing a used car**
