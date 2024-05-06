@@ -6,7 +6,7 @@
 **Exam deliverable**: Apply traditional and state-of-the-art NLP techniques on an interesting text dataset
 
 **Outcome**:
-* We scraped reviews of different Disneyland resorts across Google Maps and social media
+* We scraped reviews of different Disney World resorts across Google Maps and social media
 * We used topic modelling to classify the reviews into different topics
 * We then used sentiment analysis on each topic, calculating how satisfied users were with each of the generated topics
 * We then grouped topics, so that we had similar topics across parks, which we then could compare based on NPS scores
