@@ -6,7 +6,7 @@
 * **Tools, languages and libraries**: Python (Pandas, SciKit-Learn, XGBoost, Pycaret)
 * **Grade**: 12
 * **Authors**: [Aaron Wolf](https://github.com/aWLF5), [Mads Hvidberg](https://github.com/hvidbergm), [Michel Meyer](https://github.com/MichelMeyer19), [Tim Becker](https://github.com/tim-beck)
-![Machine learning](Machine%20Learning%20and%20Deep%20Learning/imgs/ml_results_table.png)
+![Machine learning](Machine%20Learning%20and%20Deep%20Learning/imgs/ml_results_table.PNG)
 
 
 ## Course Name: [Natural Language Processing (CDSCO1002E)](https://github.com/hvidbergm/university-projects/tree/main/Natural%20Language%20Processing)
@@ -15,7 +15,7 @@
 * **Tools, languages and libraries**: Python (SciKit-Learn, NLTK, Top2Vec)
 * **Grade**: 10 (feedback: instead of comparing a variety of NLP techniques, we should just have fine-tuned our BERT model instead)
 * **Authors**: [Daniel Pedersen](https://github.com/NesreDerp), [Mads Hvidberg](https://github.com/hvidbergm), [Michel Meyer](https://github.com/MichelMeyer19), [Tim Becker](https://github.com/tim-beck) <br>
-![Visual Analytics dashboard in Tableau](Natural%20Language%20Processing/imgs/nlp_resort_ratings.png)
+![Visual Analytics dashboard in Tableau](Natural%20Language%20Processing/imgs/nlp_resort_ratings.PNG)
 
 ## Course Name: [Visual Analytics (CDSCO1003E)](https://github.com/hvidbergm/university-projects/tree/main/Visual%20Analytics)
 **Project Title**: *Web Scraping for Automated Market Analysis - Leveraging Google Maps for Decision-Making in the Nordic Hotel Market*
